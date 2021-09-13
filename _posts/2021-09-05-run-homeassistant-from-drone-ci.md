@@ -10,21 +10,20 @@ comments: true
 
 Create a git repository connected and enabled in Drone CI and paste this into `.drone.yml`:
 ```yaml
----
 kind: pipeline
 step: default
 
 steps:
-- name: ha
-  image: ghcr.io/home-assistant/home-assistant:stable
-  network_mode: host
-  environment:
-    TZ: Europe/Amsterdam
+  - name: ha
+    image: ghcr.io/home-assistant/home-assistant:stable
+    network_mode: host
+    environment:
+      TZ: Europe/Amsterdam
     
 services:
-- name: homeassistant
-  image: ghcr.io/home-assistant/home-assistant:stable
-  network_mode: host
+  - name: homeassistant
+    image: ghcr.io/home-assistant/home-assistant:stable
+    network_mode: host
 ```
 After pulling the images Home Assistant should be available at `http://IP:8123`
 
