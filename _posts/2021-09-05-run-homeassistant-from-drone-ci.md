@@ -25,7 +25,7 @@ services:
   image: ghcr.io/home-assistant/home-assistant:stable
   network_mode: host
 ```
-After pulling the images Home Assistant should be available at http://IP:8123
+After pulling the images Home Assistant should be available at `http://IP:8123`
 
 Available images:
 - [Stable](ghcr.io/home-assistant/home-assistant:stable)
