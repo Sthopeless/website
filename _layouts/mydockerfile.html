@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<style>
+.mydockertitle {
+  padding: 30px;
+  padding-left: 255px;
+  color:greenyellow;
+  font-size: 32px;
+  font-weight: 500;
+  text-align: center;
+  margin-left: -10%;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  width: 120%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.mydockerlist {
+  text-align: left !important;
+  padding-left: 255px !important;
+  line-height: 0.5 !important;
+  margin-top: 0px !important;
+}
+
+.mydockericon {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+</style>
+<div class="mydockericon"> <img itemprop="image" src="/assets/images/docker-banner.png" width="50%" height="50%" alt="docker" /> </div>
+
+<div class="container-fluid index">
+  <!-- <div class="mydockericon"> <i class="fab fa-docker fa-9x"></i> </div> -->
+
+  <a class="mydockertitle" href="{{page.github_packages}}"> {{ page.title }} </a>
+
+  <div class="col-md-12 content-panel articles mydockerlist">
+
+    <!-- <ul style="list-style-type:lower-roman"> -->
+    <!-- <ul style=list-style-type:"\1F433">  -->
+    <ul style="list-style-type:upper-roman">
+          {% for item in site.data.mydockercontainers %}
+         <li>
+           <a href="https://github.com/users/Sthopeless/packages/container/package/{{ item }}" target="_blank"> {{ item }}</a>
+           </li>
+      {% endfor %}
+    </ul>
+
+<!-- {{ content }} -->
+
+    </div>
+</div>
+
+
+<div class="">
+  <div class="row">

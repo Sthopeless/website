@@ -1,0 +1,6 @@
+sthopegitscript
+_site/
+.git/
+
+
+Gemfile.lock

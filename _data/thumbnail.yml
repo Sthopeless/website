@@ -1,0 +1,11 @@
+gravatar: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+jekyll: "https://i.imgur.com/aRQcGSi.png"
+# sthope.dev
+sthope_logo: "/assets/images/avatar-sthope.png"
+### Logos
+
+docker-logo: "/assets/images/docker-logo.png"
+
+jekyll-logo: "/assets/images/jekyll-logo.png"
+portainer-logo: "/assets/images/portainer-logo.png"
+proxmox-logo: "/assets/images/proxmox-logo.png"

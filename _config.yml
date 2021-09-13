@@ -1,0 +1,40 @@
+title: "Sthope"
+url: "https://www.sthope.dev/"
+description: "My adventures with electronics."
+
+baseurl: ""
+google_analytics:
+disqus_account: sthope-dev
+github_repository:
+addthis_id:
+post_limit: 5
+
+# profile_pic: "/assets/images/avatar-sthope.png"
+gravatar: "95f364b924da6af7e7def150ebc68277"
+sthopegit: "Sthope"
+github: "Sthopeless"
+reddit: "hopeless_automations"
+email: "hopelessautomations@gmail.com"
+discord: "365825462074605569"
+twitter: "Sthope_dev"
+facebook: "Sthope.dev"
+
+instagram_username: 
+linkedin_link: 
+google_plus_link:
+stackoverflow_link:
+xing_link:
+
+# footer_left: "Made with <i class=\"fa fa-heart\"></i>"
+footer_left: "Copyright © 2021 Sthope"
+footer_right: "&lt;/&gt; on <a href=\"https://git.sthope.dev/sthope/website\">Sthope</a> &nbsp;<i class=\"fa fa-git\"></i>"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+include: ["_pages"]
+permalink: /:title
+
+exclude: [vendor, changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

@@ -1,0 +1,17 @@
+<nav id="my-menu">
+  <div>
+    <p>{{ site.title }}</p>
+
+    <ul class="pages">
+      <li><a href="{{ site.baseurl }}/"><i class="fa fa-home"></i> Home</a></li>
+      <li><a href="{{ site.baseurl }}/by-year"><i class="fa fa-archive"></i> All Posts</a></li>
+      <li><a href="https://git.sthope.dev/sthope/sthope-examples/src/branch/master/docker_portainer_stacks" target="_blank"><i class="fas fa-cubes"></i> Portainer Stacks</a></li>    
+      <li><a href="https://git.sthope.dev/sthope?tab=&sort=recentupdate&q=proxmox" target="_blank"><i class="fab fa-product-hunt"></i> Proxmox LXC's</a></li>    
+      <li><a href="{{ site.baseurl }}/dockercontainers"><i class="fab fa-docker"></i> My Docker Containers</a></li>
+      <li><a href="{{ site.baseurl }}/search/"><i class="fa fa-search"></i> Search</a></li>
+    </ul>
+
+    {% include social_links.html %}
+  </div>
+</nav>
+<div class="menu-button" href="#menu"><i class="fa fa-bars"></i></div>
