@@ -10,6 +10,7 @@ comments: true
 
 Create a git repository connected and enabled in Drone CI and paste this into `.drone.yml`:
 ```yaml
+---
 kind: pipeline
 step: default
 
