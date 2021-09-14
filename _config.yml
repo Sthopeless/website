@@ -3,10 +3,10 @@ url: "https://www.sthope.dev/"
 description: "My adventures with electronics."
 
 baseurl: ""
-google_analytics:
+google_analytics: G-NGF1NTBYNC
 disqus_account: sthope-dev
-github_repository:
-addthis_id:
+github_repository: https://github.com/Sthopeless/website
+addthis_id: ra-612d23c3363a563a
 post_limit: 5
 
 # profile_pic: "/assets/images/avatar-sthope.png"
