@@ -27,9 +27,10 @@ services:
 ```
 After pulling the images Home Assistant should be available at `http://IP:8123`
 
-Available images:
+Official available images:
 - [stable](ghcr.io/home-assistant/home-assistant:stable)
 - [dev](ghcr.io/home-assistant/home-assistant:dev)
 - [rc](ghcr.io/home-assistant/home-assistant:rc)
 - [beta](ghcr.io/home-assistant/home-assistant:beta)
 - [latest](ghcr.io/home-assistant/home-assistant:latest)
+
