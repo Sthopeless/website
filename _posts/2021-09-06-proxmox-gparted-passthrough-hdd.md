@@ -15,10 +15,10 @@ And go to the Terminal of Proxmox and enter:
 ```
 clear;ls -l /dev/disk/by-id/
 ```
-{{page.pic01}}
+<img src="{{page.pic01}}"/>
 
 Then copy the correct name of your Harddrive and on Proxmox terminal add it to gparted VM with:
 ```
 qm set 101 -scsi2 /dev/disk/by-id/ata-FORESEE_128GB_SSD_J30992J013821
 ```
-{{page.pic02}}
+<img src="{{page.pic02}}"/>
