@@ -9,7 +9,9 @@ comments: true
 ---
 
 SSH into your Ubuntu or open the terminal and type:
+```
 mkdir -p ~/.config/autostart;nano ~/.config/autostart/kodi.desktop
+```
 
 And paste:
 ```
