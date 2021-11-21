@@ -15,6 +15,7 @@ ir_sensor: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/NPfrMbSXjY
 battery_charger: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/e3gBtTKAMZTEHDp?x=1196&y=481&a=true&file=batery_charger.png"
 
 ---
+
 <html>
 <head>
 
