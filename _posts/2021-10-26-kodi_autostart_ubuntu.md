@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Autostart Kodi on Ubuntu"
-description: ""
 author: sthope
 image: 
 categories: [ Kodi, Ubuntu ]

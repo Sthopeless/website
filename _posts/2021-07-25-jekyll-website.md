@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Jekyll Docker Website"
-description: ""
 author: sthope
 image: 
 categories: [ Docker, Jekyll ]

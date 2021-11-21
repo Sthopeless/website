@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to create a new User in Debian"
-description: ""
 author: sthope
 image: 
 categories: [ Docker, Portainer, Stack, LinuxServer ]

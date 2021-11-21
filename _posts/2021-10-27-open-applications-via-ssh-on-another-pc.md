@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Open Applications via SSH on another PC"
-description: ""
 author: sthope
 image: 
 categories: [ Ubuntu, SSH, Linux ]

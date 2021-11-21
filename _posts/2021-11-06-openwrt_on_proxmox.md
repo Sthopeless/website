@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "OpenWRT on Proxmox"
-description: ""
 author: sthope
 image: 
 categories: [ Proxmox, OpenWRT ]

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Check Max RAM capacity from Terminal"
-description: ""
 author: sthope
 image: 
 categories: [ Linux ]

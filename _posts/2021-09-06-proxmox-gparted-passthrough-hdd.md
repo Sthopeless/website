@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Proxmox Harddrive PassThrough"
-description: ""
 author: sthope
 image: 
 categories: [ Proxmox, GParted ]

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Openssh-server Docker Container"
-description: ""
 author: sthope
 image: 
 categories: [ Docker, Portainer, SSH ]

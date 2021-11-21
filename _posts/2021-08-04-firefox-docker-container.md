@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "FireFox Docker Container"
-description: ""
 author: sthope
 image: "firefox.png"
 categories: [ Docker, Portainer, Stack, LinuxServer ]
