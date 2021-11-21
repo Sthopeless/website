@@ -94,15 +94,21 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
+    
+    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/yAAHN8LZnse4S3T?x=1196&y=481&a=true&file=ESP32_board.png" style="width:80%">
+
+    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/NPfrMbSXjYC9MDg?x=1196&y=481&a=true&file=MLX90614%2520Non-contact%2520Infrared%2520Temperature.png" style="width:80%">
+    
     <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/ESmF22ngpSXMZHF?x=1196&y=481&a=true&file=sideA.png" style="width:100%">
-    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/A9xc7bbmXzZ4SBi?x=1196&y=481&a=true&file=sideB.png" style="width:100%">
-    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/NPfrMbSXjYC9MDg?x=1196&y=481&a=true&file=MLX90614%2520Non-contact%2520Infrared%2520Temperature.png" style="width:100%">
+
   </div>
   <div class="column">
     <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/soGPdW6sLa3s7Dx?x=1196&y=481&a=true&file=Red%2520Laser%2520Diode.png" style="width:100%">
-    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/yAAHN8LZnse4S3T?x=1196&y=481&a=true&file=ESP32_board.png" style="width:100%">
-    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/e3gBtTKAMZTEHDp?x=1196&y=481&a=true&file=batery_charger.png" style="width:100%">
 
+    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/e3gBtTKAMZTEHDp?x=1196&y=481&a=true&file=batery_charger.png" style="width:100%">
+    
+    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/A9xc7bbmXzZ4SBi?x=1196&y=481&a=true&file=sideB.png" style="width:100%">
+    
   </div>  
 </div>
 
@@ -113,27 +119,11 @@ var elements = document.getElementsByClassName("column");
 // Declare a loop variable
 var i;
 
-// Full-width images
-function one() {
-    for (i = 0; i < elements.length; i++) {
-    elements[i].style.msFlex = "100%";  // IE10
-    elements[i].style.flex = "100%";
-  }
-}
-
 // Two images side by side
 function two() {
   for (i = 0; i < elements.length; i++) {
     elements[i].style.msFlex = "50%";  // IE10
     elements[i].style.flex = "50%";
-  }
-}
-
-// Four images side by side
-function four() {
-  for (i = 0; i < elements.length; i++) {
-    elements[i].style.msFlex = "25%";  // IE10
-    elements[i].style.flex = "25%";
   }
 }
 
@@ -151,5 +141,3 @@ for (var i = 0; i < btns.length; i++) {
 
 </body>
 </html>
-
-
