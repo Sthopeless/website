@@ -19,7 +19,6 @@ battery_charger: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/e3gB
 ![logo]({{page.logo}})  
 
 Hardware:
-
 - <a href="https://bit.ly/3FmXdcl">ESP32</a>
 - <a href="https://bit.ly/3kXADz5">Display i2c</a>
 - <a href="https://bit.ly/30ruJPq">Battery Charger w/Protection</a>
