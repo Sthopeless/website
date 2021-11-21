@@ -51,14 +51,14 @@ body {
 
 </div>
 
-Hardware:<br/>
-- <a href="https://bit.ly/3FmXdcl">ESP32</a><br/>
-- <a href="https://bit.ly/3kXADz5">Display i2c</a><br/>
-- <a href="https://bit.ly/30ruJPq">Battery Charger w/Protection</a><br/>
-- 18650 Battery<br/>
-- <a href="https://bit.ly/3Fq0SG6">Red Laser Diode</a><br/>
-- <a href="https://bit.ly/30wRDEX">IR Temperature Sensor</a><br/>
-- <a href="https://bit.ly/3cw0k5r">MicroSwitch</a><br/>
+Hardware:<br>
+- <a href="https://bit.ly/3FmXdcl">ESP32</a><br>
+- <a href="https://bit.ly/3kXADz5">Display i2c</a><br>
+- <a href="https://bit.ly/30ruJPq">Battery Charger w/Protection</a><br>
+- 18650 Battery<br>
+- <a href="https://bit.ly/3Fq0SG6">Red Laser Diode</a><br>
+- <a href="https://bit.ly/30wRDEX">IR Temperature Sensor</a><br>
+- <a href="https://bit.ly/3cw0k5r">MicroSwitch</a><br>
 
 <div class="row"> 
   <div class="column">
