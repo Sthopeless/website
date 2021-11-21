@@ -16,7 +16,7 @@ pic02: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/A9xc7bbmXzZ4SB
 Smart Thermometer for fever.
 
 Hardware:
-- ESP32
+- <a href="https://bit.ly/3FmXdcl">ESP32</a>
 - Display i2c
 - 18650 Battery
 - Battery Charger w/Protection
