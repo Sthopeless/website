@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smart Fever Thermometer"
+title: "Smart Fever Thermometer (Part #1)"
 description: ""
 author: sthope
 image: 
