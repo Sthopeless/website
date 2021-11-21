@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart Fever Thermometer"
-description: "Part #1"
+description: ""
 author: sthope
 image: 
 categories: [ MQTT, Tasmota, Sthope Projects, Thermometer ]
@@ -18,7 +18,7 @@ battery_charger: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/e3gB
 
 ![logo]({{page.logo}})  
 
-Smart Thermometer for fever.
+# Smart Thermometer for fever.
 
 Hardware:
 - <a href="https://bit.ly/3FmXdcl">ESP32</a>
