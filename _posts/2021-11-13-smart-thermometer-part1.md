@@ -97,7 +97,7 @@ body {
     
     <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/yAAHN8LZnse4S3T?x=1196&y=481&a=true&file=ESP32_board.png" style="width:80%">
 
-    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/NPfrMbSXjYC9MDg?x=1196&y=481&a=true&file=MLX90614%2520Non-contact%2520Infrared%2520Temperature.png" style="width:80%">
+    <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/NPfrMbSXjYC9MDg?x=1196&y=481&a=true&file=MLX90614%2520Non-contact%2520Infrared%2520Temperature.png" style="width:71%">
     
     <img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/ESmF22ngpSXMZHF?x=1196&y=481&a=true&file=sideA.png" style="width:100%">
 
