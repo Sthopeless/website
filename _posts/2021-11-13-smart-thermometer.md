@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart Fever Thermometer"
-description: ""
+description: "Part #1"
 author: sthope
 image: 
 categories: [ Linux ]
