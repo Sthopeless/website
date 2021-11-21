@@ -18,14 +18,6 @@ battery_charger: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/e3gB
 
 ![logo]({{page.logo}})  
 
-Hardware:
-- <a href="https://bit.ly/3FmXdcl">ESP32</a>
-- <a href="https://bit.ly/3kXADz5">Display i2c</a>
-- <a href="https://bit.ly/30ruJPq">Battery Charger w/Protection</a>
-- 18650 Battery
-- <a href="https://bit.ly/3Fq0SG6">Red Laser Diode</a>
-- <a href="https://bit.ly/30wRDEX">IR Temperature Sensor</a>
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -61,6 +53,14 @@ body {
 </style>
 </head>
 <body>
+
+Hardware:
+- <a href="https://bit.ly/3FmXdcl">ESP32</a>
+- <a href="https://bit.ly/3kXADz5">Display i2c</a>
+- <a href="https://bit.ly/30ruJPq">Battery Charger w/Protection</a>
+- 18650 Battery
+- <a href="https://bit.ly/3Fq0SG6">Red Laser Diode</a>
+- <a href="https://bit.ly/30wRDEX">IR Temperature Sensor</a>
 
 <div class="header" id="myHeader">
   <h1>Smart Thermometer</h1>
