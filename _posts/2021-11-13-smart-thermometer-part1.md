@@ -15,10 +15,9 @@ ir_sensor: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/NPfrMbSXjY
 battery_charger: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/e3gBtTKAMZTEHDp?x=1196&y=481&a=true&file=batery_charger.png"
 
 ---
-
-![logo]({{page.logo}})  
 <html>
 <head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 * {
@@ -55,6 +54,8 @@ body {
 
 <div class="header" id="myHeader">
   <h1>Smart Thermometer</h1>
+  <p><img src="{{page.logo}}" style="width:50%"></p>
+
 </div>
 
 Hardware:<br/>
