@@ -47,7 +47,7 @@ body {
 
 <div class="header" id="myHeader">
   <h1>Smart Thermometer</h1>
-  <p><img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/oqc3rNmkdjGCgrS?x=1196&y=481&a=true&file=sthope_smart_thermometer.png" style="width:70%"></p>
+  <p><img src="https://cloud.sthope.dev/apps/files_sharing/publicpreview/oqc3rNmkdjGCgrS?x=1196&y=481&a=true&file=sthope_smart_thermometer.png" style="width:50%"></p>
 
 </div>
 
