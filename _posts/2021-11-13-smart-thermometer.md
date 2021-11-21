@@ -22,7 +22,7 @@ Smart Thermometer for fever.
 
 Hardware:
 - <a href="https://bit.ly/3FmXdcl">ESP32</a>
-- <a href="https://s.click.aliexpress.com/e/_A0JoKI">Display i2c</a>
+- <a href="https://bit.ly/3kXADz5">Display i2c</a>
 - <a href="https://bit.ly/30ruJPq">Battery Charger w/Protection</a>
 - 18650 Battery
 - <a href="https://bit.ly/3Fq0SG6">Red Laser Diode</a>
