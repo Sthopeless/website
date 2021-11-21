@@ -4,7 +4,7 @@ title: "Smart Fever Thermometer"
 description: "Part #1"
 author: sthope
 image: 
-categories: [ Linux ]
+categories: [ MQTT, Tasmota, Sthope Projects, Thermometer ]
 comments: true
 logo: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/oqc3rNmkdjGCgrS?x=1196&y=481&a=true&file=sthope_smart_thermometer.png"
 sideA: "https://cloud.sthope.dev/apps/files_sharing/publicpreview/ESmF22ngpSXMZHF?x=1196&y=481&a=true&file=sideA.png"
