@@ -59,7 +59,7 @@ Hardware:<br>
 - <a href="https://bit.ly/3Fq0SG6">Red Laser Diode</a><br>
 - <a href="https://bit.ly/30wRDEX">IR Temperature Sensor</a><br>
 - <a href="https://bit.ly/3cw0k5r">MicroSwitch</a><br>
-- <a href="https://bit.ly/3xavOaH">Buttons 6*6*6mm</a><br>
+- <a href="https://bit.ly/3xavOaH">Buttons</a><br>
 
 <div class="row"> 
   <div class="column">
