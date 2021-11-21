@@ -1,7 +1,8 @@
 title: "Sthope"
 url: "https://www.sthope.dev/"
-description: "My adventures with electronics"
-  # '<img src="https://github-readme-stats.vercel.app/api?username=sthopeless&show_icons=true&theme=gruvbox&hide_border=true" style="width:80%">'
+description: "<img src="https://github-readme-stats.vercel.app/api?username=sthopeless&show_icons=true&theme=gruvbox&hide_border=true" style="width:80%">""
+
+  # "My adventures with electronics"
 
 baseurl: ""
 google_analytics: G-NGF1NTBYNC
