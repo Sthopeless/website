@@ -26,7 +26,6 @@ google_plus_link:
 stackoverflow_link:
 xing_link:
 
-# footer_left: "Made with <i class=\"fa fa-heart\"></i>"
 footer_left: "Copyright © 2021 Sthope"
 footer_right: "&lt;/&gt; on <a href=\"https://git.sthope.dev/sthope/website\">Sthope</a> &nbsp;<i class=\"fa fa-git\"></i>"
 
