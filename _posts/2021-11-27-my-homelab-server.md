@@ -12,7 +12,7 @@ All the hardware is chosen and hopefully I don't have to return/replace anything
 
 Server will be running Proxmox with FreeNAS ("TrueNAS Core" now) VM.
 
-Hardware:
+<h3 id="Hardware">Hardware</h3>
 
 |                 |                                 |
 |-----------------|---------------------------------|
