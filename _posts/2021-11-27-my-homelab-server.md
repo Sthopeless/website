@@ -22,3 +22,9 @@ Server will be running Proxmox with FreeNAS ("TrueNAS Core" now) VM.
 | **Case** | [Inter-Tech IPC 4U-4088-S](https://www.inter-tech.de/en/products/ipc/server-cases/4u-4088-s) |
 | **PSU** | [Xilence XP550R9](https://tweakers.net/pricewatch/999371/xilence-xp550r9/specificaties/) |
 
+<h3 id="Storage">Storage</h3>
+
+| | |
+| :---- | :---- |
+| **4x** | [Seagate IronWolf, 4TB](https://tweakers.net/pricewatch/569349/seagate-ironwolf-4tb.html) |
+| **1x** | [Samsung 980 1TB](https://tweakers.net/pricewatch/1663016/samsung-980-1tb.html) |
